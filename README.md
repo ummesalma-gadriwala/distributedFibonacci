@@ -5,7 +5,7 @@
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `asg1` to your list of dependencies in `mix.exs`:
+by adding `Fib` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
